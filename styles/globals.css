@@ -13,7 +13,7 @@ body {
   font-family: 'Roboto', 'Arial', 'Helvetica Neue', sans-serif;
   font-weight: 400;
   font-size: 14px;
-  margin: 0px !important;
+  margin: unset;
   height: 100vh;
   width: 100%;
   background: #ffece0;
@@ -203,8 +203,8 @@ button {
   border-bottom: 1px solid #dddddd;
 }
 .title-text {
-  padding-top: 200px !important;
-  padding-bottom: 70px !important;
+  padding-top: 200px;
+  padding-bottom: 70px;
   color: #009879;
   font-family: 'Raleway', sans-serif;
   font-size: 45px;
